@@ -1,4 +1,4 @@
-#  About Me: I’m currently learning Python and Linux
+#  About Me: I’m currently learning Python CLI & Linux OS
 
 
 #  Tech Stack:
